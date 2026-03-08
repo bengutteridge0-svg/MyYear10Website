@@ -23,7 +23,7 @@ img {
     display: flex;
     justify-content: center;
     align-items: center;
-    color: rgb(161, 14, 14);
+    color: rgb(255, 255, 255);
     text-align: center;
     position: relative;
 }
@@ -39,7 +39,7 @@ img {
     color: white;
     font-size: 2em;
     padding: 0.1em 3em;
-    background-color: rgb(71, 71, 71);
+    background-color: rgb(31, 36, 33);
 }
 
 /* Three column grid with a nice big gap */
